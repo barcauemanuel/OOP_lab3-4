@@ -1,0 +1,4 @@
+﻿  main.c
+c:\users\admin\documents\visual studio 2015\projects\oop lab 3-4\oop lab 3-4\main.c(23): warning C4013: '_CrtDumpMemoryLeaks' undefined; assuming extern returning int
+  OOP Lab 3-4.vcxproj -> C:\Users\Admin\documents\visual studio 2015\Projects\OOP Lab 3-4\Debug\OOP Lab 3-4.exe
+  OOP Lab 3-4.vcxproj -> C:\Users\Admin\documents\visual studio 2015\Projects\OOP Lab 3-4\Debug\OOP Lab 3-4.pdb (Full PDB)
